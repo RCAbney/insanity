@@ -1,11 +1,11 @@
 {
   "root": true,
   "api": {
-    "projectId": "9nhae6b7",
+    "projectId": "rtre4dtn",
     "dataset": "production"
   },
   "project": {
-    "name": "Gatsby Demo",
+    "name": "DonkaDooBall",
     "basePath": "/"
   },
   "plugins": [
